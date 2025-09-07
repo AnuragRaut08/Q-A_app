@@ -1,5 +1,4 @@
 
-
 # 📘 Mini PDF Q\&A (RAG-based System)
 
 An end-to-end **Retrieval Augmented Generation (RAG)** system built with **Next.js** that allows users to:
@@ -11,9 +10,6 @@ An end-to-end **Retrieval Augmented Generation (RAG)** system built with **Next.
 * ❓ Ask **natural language questions** about the PDF
 * 🤖 Receive accurate answers via **context-aware LLM reasoning**
 
-This project fulfills all the requirements from the Internship Task specification.
-
----
 
 ## 🚀 Features
 
@@ -32,7 +28,7 @@ This project fulfills all the requirements from the Internship Task specificatio
 ## 📂 Project Structure
 
 ```
-mini-pdf-qa/
+Q-A_app/
 ├─ package.json
 ├─ .env.example
 ├─ pages/
@@ -56,8 +52,8 @@ mini-pdf-qa/
 ### 1. Clone & Install
 
 ```bash
-git clone https://github.com/<your-username>/mini-pdf-qa.git
-cd mini-pdf-qa
+git clone https://github.com/<your-username>/q-a_app.git
+cd q-a_app
 npm install
 ```
 
