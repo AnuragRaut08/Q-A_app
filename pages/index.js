@@ -6,7 +6,7 @@ export default function Home() {
   const [uploadStatus, setUploadStatus] = useState("");
   const [question, setQuestion] = useState("");
   const [answer, setAnswer] = useState("");
-  const APP_TOKEN = process.env.NEXT_PUBLIC_APP_TOKEN || "replace-me"; // set in .env.local
+  const APP_TOKEN =  process.env.NEXT_PUBLIC_APP_TOKEN || "replace-me"; // set in .env.local
 
   async function handleUpload(e) {
     e.preventDefault();
