@@ -10,4 +10,4 @@ Q: When will the final presentation be held?
 Expected Answer: The last week of the internship.
 
 Q: Who is the CEO of Example Corp? (not in PDF)
-Expected Answer: I don’t know based on the provided document.
+Expected Answer: I don’t know based on the provided document. 
